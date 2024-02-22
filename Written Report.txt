@@ -1,0 +1,10 @@
+Written Report
+
+Summary of the Analysis:
+The purpose of the analysis is to demonstrate how certain identities can be utilized to compare various school kinds. These identities include their students' names, their reading and math grades, their budget, their size, type, and grade. This gives us information about how schools function based on these identities, allowing us to determine the reading and math scores for a given grade. Alternatively, if we're interested in learning how well pupils are doing based on the school's size or money. This analysis will reveal a great deal of information, but further investigation is needed to learn more or identify the elements that contribute to a school's success. 
+ 
+
+Two conclusions or comparisons from the calculations:
+1.It makes no difference how much money is allocated to a school; as we can see, the schools with larger budgets are also the ones that do the worst overall.
+2. By comparing scores against school size and type, it is evident that Charter schools outperform District schools. Hence, smaller schools appear to have higher achievement levels.
+
